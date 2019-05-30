@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.intro h2 {
+  font-style: italic;
+  color: lightgray;
+  text-shadow: 1px 1px gray;
+  text-align: center;
+}
+
+.intro p {
+  font-style: italic;
+  color: lightgray;
+  text-align: center;
+}
+
+.intro img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  display: block;
+}
+
+body {
+  background-color: black;
+}
+
+.aboutme p {
+  color: white;
+  text-align: right;
+}
+
+.aboutme h2 {
+  color: orange;
+  text-align: right;
+}
